@@ -1,6 +1,5 @@
 aws-cloudfront-static-website/
 │
 ├── index.html
-├── about.html
 ├── style.css
 └── README.md
