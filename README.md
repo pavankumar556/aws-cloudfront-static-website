@@ -1,4 +1,4 @@
-# Static Website Hosting using AWS S3 & CloudFront
+![image](https://github.com/user-attachments/assets/4827342c-3281-40b4-ace6-b93b926e7fa9)# Static Website Hosting using AWS S3 & CloudFront
 
 This project demonstrates how to host a static website using Amazon S3 and serve it globally with AWS CloudFront CDN.
 
@@ -13,3 +13,4 @@ This project demonstrates how to host a static website using Amazon S3 and serve
 - AWS S3
 - AWS CloudFront
 - IAM & Bucket Policies
+![Uploading image.png…]()
