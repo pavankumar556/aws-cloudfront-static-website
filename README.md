@@ -13,5 +13,6 @@ This project demonstrates how to host a static website using Amazon S3 and serve
 - AWS S3
 - AWS CloudFront
 - IAM & Bucket Policies
-
+<br>
+<br>
 <img src="https://github.com/pavankumar556/aws-cloudfront-static-website/blob/main/Tasks/5.png"/>
